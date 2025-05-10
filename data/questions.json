@@ -1,0 +1,552 @@
+[
+    {
+      "id": 1,
+      "question": "What is LayerEdge primarily?",
+      "options": [
+        "A payment protocol",
+        "A data layer optimization solution for blockchains",
+        "A trading platform",
+        "A decentralized social network"
+      ],
+      "answer": "A data layer optimization solution for blockchains"
+    },
+    {
+      "id": 2,
+      "question": "What is the main goal of LayerEdge?",
+      "options": [
+        "Reduce transaction fees",
+        "Improve dApp scalability",
+        "Create NFTs",
+        "Centralize data"
+      ],
+      "answer": "Improve dApp scalability"
+    },
+    {
+      "id": 3,
+      "question": "What type of technology does LayerEdge rely on?",
+      "options": [
+        "Centralized cloud",
+        "Distributed networks",
+        "Proprietary servers",
+        "Artificial intelligence"
+      ],
+      "answer": "Distributed networks"
+    },
+    {
+      "id": 4,
+      "question": "What problem does LayerEdge aim to solve?",
+      "options": [
+        "Lack of blockchain security",
+        "Data access latency",
+        "Absence of crypto wallets",
+        "Shortage of developers"
+      ],
+      "answer": "Data access latency"
+    },
+    {
+      "id": 5,
+      "question": "Which type of applications benefits most from LayerEdge?",
+      "options": [
+        "Centralized applications",
+        "dApps (decentralized applications)",
+        "Traditional video games",
+        "Office software"
+      ],
+      "answer": "dApps (decentralized applications)"
+    },
+    {
+      "id": 6,
+      "question": "Can LayerEdge reduce the cost of blockchain interactions?",
+      "options": [
+        "Yes, by optimizing data access",
+        "No, it increases costs",
+        "Only for NFTs",
+        "Only for Ethereum"
+      ],
+      "answer": "Yes, by optimizing data access"
+    },
+    {
+      "id": 7,
+      "question": "What is a key advantage of LayerEdge for developers?",
+      "options": [
+        "Simpler smart contract creation",
+        "Fast access to on-chain data",
+        "Free dApp hosting",
+        "Automatic code translation"
+      ],
+      "answer": "Fast access to on-chain data"
+    },
+    {
+      "id": 8,
+      "question": "Is LayerEdge compatible with multiple blockchains?",
+      "options": [
+        "No, only Ethereum",
+        "Yes, it is interoperable",
+        "Only with Bitcoin",
+        "Only for private blockchains"
+      ],
+      "answer": "Yes, it is interoperable"
+    },
+    {
+      "id": 9,
+      "question": "What type of data does LayerEdge primarily manage?",
+      "options": [
+        "Users' personal data",
+        "On-chain blockchain data",
+        "Off-chain data only",
+        "Social media data"
+      ],
+      "answer": "On-chain blockchain data"
+    },
+    {
+      "id": 10,
+      "question": "Which protocol does LayerEdge use for decentralization?",
+      "options": [
+        "HTTP",
+        "IPFS",
+        "FTP",
+        "SMTP"
+      ],
+      "answer": "IPFS"
+    },
+    {
+      "id": 11,
+      "question": "Can LayerEdge improve transaction speed?",
+      "options": [
+        "Yes, by reducing data latency",
+        "No, it slows transactions",
+        "Only for microtransactions",
+        "Only on PoW blockchains"
+      ],
+      "answer": "Yes, by reducing data latency"
+    },
+    {
+      "id": 12,
+      "question": "What is a typical use case for LayerEdge?",
+      "options": [
+        "Managing enterprise databases",
+        "Optimizing DeFi (decentralized finance)",
+        "Creating static websites",
+        "Analyzing marketing data"
+      ],
+      "answer": "Optimizing DeFi (decentralized finance)"
+    },
+    {
+      "id": 13,
+      "question": "Does LayerEdge reduce reliance on centralized nodes?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for Ethereum nodes",
+        "Only in testnet"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "id": 14,
+      "question": "What type of consensus does LayerEdge use?",
+      "options": [
+        "Proof of Work",
+        "Proof of Stake",
+        "None, it is not a blockchain",
+        "Delegated Proof of Stake"
+      ],
+      "answer": "None, it is not a blockchain"
+    },
+    {
+      "id": 15,
+      "question": "Is LayerEdge open-source?",
+      "options": [
+        "Yes, fully",
+        "No, it is proprietary",
+        "Partially open-source",
+        "Only for partners"
+      ],
+      "answer": "Partially open-source"
+    },
+    {
+      "id": 16,
+      "question": "Which sector benefits most from LayerEdge?",
+      "options": [
+        "Traditional gaming",
+        "Decentralized finance (DeFi)",
+        "Healthcare",
+        "Education"
+      ],
+      "answer": "Decentralized finance (DeFi)"
+    },
+    {
+      "id": 17,
+      "question": "Can LayerEdge be integrated with Ethereum?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with Polygon",
+        "Only with Solana"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "id": 18,
+      "question": "What challenge does LayerEdge address?",
+      "options": [
+        "Lack of cryptocurrencies",
+        "Blockchain scalability",
+        "Wallet security",
+        "NFT adoption"
+      ],
+      "answer": "Blockchain scalability"
+    },
+    {
+      "id": 19,
+      "question": "Does LayerEdge use oracles?",
+      "options": [
+        "Yes, for off-chain data",
+        "No, it does not need them",
+        "Only for smart contracts",
+        "Only for DeFi"
+      ],
+      "answer": "No, it does not need them"
+    },
+    {
+      "id": 20,
+      "question": "Who is the primary target audience for LayerEdge?",
+      "options": [
+        "dApp developers",
+        "Video game players",
+        "Logistics companies",
+        "Social media users"
+      ],
+      "answer": "dApp developers"
+    },
+    {
+      "id": 21,
+      "question": "What is a key benefit of LayerEdge's fast blocks?",
+      "options": [
+        "Reduced confirmation time",
+        "Increased gas fees",
+        "Centralized nodes",
+        "Limited smart contracts"
+      ],
+      "answer": "Reduced confirmation time"
+    },
+    {
+      "id": 22,
+      "question": "What is the target block time for LayerEdge?",
+      "options": [
+        "10 minutes",
+        "12-20 seconds",
+        "1 hour",
+        "5 seconds"
+      ],
+      "answer": "12-20 seconds"
+    },
+    {
+      "id": 23,
+      "question": "Does LayerEdge use Bitcoin for security?",
+      "options": [
+        "No, it has its own security",
+        "Yes, via BitVM",
+        "Only for Ethereum",
+        "Only for sidechains"
+      ],
+      "answer": "Yes, via BitVM"
+    },
+    {
+      "id": 24,
+      "question": "What type of rollup does LayerEdge use?",
+      "options": [
+        "Zero-Knowledge Rollups",
+        "Optimistic Rollups",
+        "Plasma Rollups",
+        "Sidechain Rollups"
+      ],
+      "answer": "Optimistic Rollups"
+    },
+    {
+      "id": 25,
+      "question": "Is LayerEdge compatible with EVM?",
+      "options": [
+        "Yes, to support developers",
+        "No, it uses a proprietary system",
+        "Only for Solana",
+        "Only for Bitcoin"
+      ],
+      "answer": "Yes, to support developers"
+    },
+    {
+      "id": 26,
+      "question": "What is a primary use case for LayerEdge?",
+      "options": [
+        "Creating centralized databases",
+        "Optimizing DeFi applications",
+        "Managing social networks",
+        "Analyzing marketing data"
+      ],
+      "answer": "Optimizing DeFi applications"
+    },
+    {
+      "id": 27,
+      "question": "How does LayerEdge reduce gas fees?",
+      "options": [
+        "By using a single honest validator",
+        "By increasing block sizes",
+        "By centralizing transactions",
+        "By removing smart contracts"
+      ],
+      "answer": "By using a single honest validator"
+    },
+    {
+      "id": 28,
+      "question": "What mechanism does LayerEdge use for settlement on Bitcoin?",
+      "options": [
+        "Proof of Stake",
+        "BitVM",
+        "Sharding",
+        "Plasma"
+      ],
+      "answer": "BitVM"
+    },
+    {
+      "id": 29,
+      "question": "Does LayerEdge support native Bitcoin assets?",
+      "options": [
+        "No, only Ethereum tokens",
+        "Yes, such as Runes",
+        "Only for NFTs",
+        "Only for stablecoins"
+      ],
+      "answer": "Yes, such as Runes"
+    },
+    {
+      "id": 30,
+      "question": "What is a goal of LayerEdge for Bitcoin?",
+      "options": [
+        "Replace Bitcoin",
+        "Enhance its programmability",
+        "Reduce its security",
+        "Centralize its network"
+      ],
+      "answer": "Enhance its programmability"
+    },
+    {
+      "id": 31,
+      "question": "Does LayerEdge use ZK proofs for verification?",
+      "options": [
+        "Yes, for scalability",
+        "No, only fraud proofs",
+        "Only for Ethereum",
+        "Only for sidechains"
+      ],
+      "answer": "Yes, for scalability"
+    },
+    {
+      "id": 32,
+      "question": "What is a benefit of LayerEdge's native Bitcoin verification?",
+      "options": [
+        "Increased costs",
+        "Cost reduction up to 99%",
+        "Slower transactions",
+        "Limited dApps"
+      ],
+      "answer": "Cost reduction up to 99%"
+    },
+    {
+      "id": 33,
+      "question": "What type of bridge does LayerEdge use for Bitcoin assets?",
+      "options": [
+        "Centralized bridge",
+        "Trustless deBridge",
+        "Ethereum-only bridge",
+        "Plasma bridge"
+      ],
+      "answer": "Trustless deBridge"
+    },
+    {
+      "id": 34,
+      "question": "Is LayerEdge designed for developers?",
+      "options": [
+        "No, only for end users",
+        "Yes, with an EVM-friendly environment",
+        "Only for miners",
+        "Only for validators"
+      ],
+      "answer": "Yes, with an EVM-friendly environment"
+    },
+    {
+      "id": 35,
+      "question": "What is a benefit of LayerEdge's fast finality?",
+      "options": [
+        "Reduced security",
+        "More responsive applications",
+        "Increased centralization",
+        "Higher fees"
+      ],
+      "answer": "More responsive applications"
+    },
+    {
+      "id": 36,
+      "question": "Can LayerEdge interact with other blockchains?",
+      "options": [
+        "No, only Bitcoin",
+        "Yes, such as Ethereum",
+        "Only Solana",
+        "Only sidechains"
+      ],
+      "answer": "Yes, such as Ethereum"
+    },
+    {
+      "id": 37,
+      "question": "What is the role of validators in LayerEdge?",
+      "options": [
+        "Centralize transactions",
+        "Verify ZK proofs",
+        "Mine blocks",
+        "Store off-chain data"
+      ],
+      "answer": "Verify ZK proofs"
+    },
+    {
+      "id": 38,
+      "question": "Does LayerEdge improve the user experience?",
+      "options": [
+        "No, it complicates transactions",
+        "Yes, with near-zero fees",
+        "Only for developers",
+        "Only for miners"
+      ],
+      "answer": "Yes, with near-zero fees"
+    },
+    {
+      "id": 39,
+      "question": "What type of layer is LayerEdge?",
+      "options": [
+        "Storage layer",
+        "Programmability layer",
+        "Consensus layer",
+        "Network layer"
+      ],
+      "answer": "Programmability layer"
+    },
+    {
+      "id": 40,
+      "question": "Does LayerEdge use a modular approach?",
+      "options": [
+        "Yes, for flexibility",
+        "No, it is monolithic",
+        "Only for Ethereum",
+        "Only for dApps"
+      ],
+      "answer": "Yes, for flexibility"
+    },
+    {
+      "id": 41,
+      "question": "What challenge does LayerEdge address for Bitcoin?",
+      "options": [
+        "Lack of security",
+        "Lack of programmability",
+        "Excess transactions",
+        "Centralized nodes"
+      ],
+      "answer": "Lack of programmability"
+    },
+    {
+      "id": 42,
+      "question": "Can LayerEdge enable yield generation for Bitcoin assets?",
+      "options": [
+        "Yes, via DeFi",
+        "No, only for storage",
+        "Only for NFTs",
+        "Only for stablecoins"
+      ],
+      "answer": "Yes, via DeFi"
+    },
+    {
+      "id": 43,
+      "question": "What is a benefit of Optimistic Rollups in LayerEdge?",
+      "options": [
+        "Instant verification",
+        "Near-zero gas fees",
+        "Increased centralization",
+        "Removal of smart contracts"
+      ],
+      "answer": "Near-zero gas fees"
+    },
+    {
+      "id": 44,
+      "question": "Is LayerEdge open-source?",
+      "options": [
+        "Yes, fully",
+        "No, it is proprietary",
+        "Partially open-source",
+        "Only for partners"
+      ],
+      "answer": "Partially open-source"
+    },
+    {
+      "id": 45,
+      "question": "What is a use case for LayerEdge with Bitcoin inscriptions?",
+      "options": [
+        "Creating databases",
+        "Using in DeFi",
+        "Managing social networks",
+        "Analyzing data"
+      ],
+      "answer": "Using in DeFi"
+    },
+    {
+      "id": 46,
+      "question": "Does LayerEdge reduce reliance on centralized validators?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for Ethereum",
+        "Only for sidechains"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "id": 47,
+      "question": "What is a goal of LayerEdge's Origin phase?",
+      "options": [
+        "Launch a centralized mainnet",
+        "Deploy an EVM-compatible testnet",
+        "Remove Bitcoin",
+        "Limit dApps"
+      ],
+      "answer": "Deploy an EVM-compatible testnet"
+    },
+    {
+      "id": 48,
+      "question": "Does LayerEdge improve Bitcoin's scalability?",
+      "options": [
+        "Yes, with faster blocks",
+        "No, it slows Bitcoin",
+        "Only for Ethereum",
+        "Only for NFTs"
+      ],
+      "answer": "Yes, with faster blocks"
+    },
+    {
+      "id": 49,
+      "question": "What is a benefit of proof aggregation in LayerEdge?",
+      "options": [
+        "Increased costs",
+        "Reduced verification costs",
+        "Slower transactions",
+        "Removal of smart contracts"
+      ],
+      "answer": "Reduced verification costs"
+    },
+    {
+      "id": 50,
+      "question": "Is LayerEdge designed for interactive applications?",
+      "options": [
+        "No, only for storage",
+        "Yes, thanks to fast finality",
+        "Only for games",
+        "Only for NFTs"
+      ],
+      "answer": "Yes, thanks to fast finality"
+    }
+  ]

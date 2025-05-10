@@ -1,0 +1,159 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.question {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  padding: 15px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  animation: fadeIn 0.4s forwards;
+}
+
+.options {
+  margin: 25px 0;
+  animation: fadeIn 0.4s forwards;
+}
+
+.options button {
+  display: block;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 10px 0;
+  font-size: 1em;
+  cursor: pointer;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  transform: translateZ(0);
+}
+
+.options button:hover:not(:disabled) {
+  background-color: #005bb5;
+  transform: translateY(-2px);
+}
+
+.options button:disabled {
+  cursor: default;
+  opacity: 0.8;
+}
+
+.options button.correct-answer {
+  background-color: #4CAF50;
+  color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  animation: pulse 0.5s ease;
+}
+
+.options button.correct-answer:disabled {
+  opacity: 1;
+}
+
+.options button.incorrect-answer {
+  background-color: #F44336;
+  color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.options button.incorrect-answer:disabled {
+  opacity: 0.7;
+}
+
+.feedback {
+  margin: 20px 0;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: bold;
+  animation: fadeIn 0.5s;
+}
+
+.feedback.correct {
+  background-color: #E8F5E9;
+  color: #2E7D32;
+  border-left: 5px solid #4CAF50;
+}
+
+.feedback.incorrect {
+  background-color: #FFEBEE;
+  color: #C62828;
+  border-left: 5px solid #F44336;
+}
+
+.timer {
+  font-size: 1.2em;
+  color: #333;
+  margin-bottom: 20px;
+  font-weight: bold;
+  background: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.footer {
+  margin-top: 30px;
+  font-size: 0.9em;
+  color: #666;
+  padding-top: 15px;
+  border-top: 1px solid #eee;
+}
+
+.footer a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.03); }
+  100% { transform: scale(1); }
+}
+
+/* Style pour le bouton Start/Play Again */
+.container button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  font-size: 1em;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 20px;
+}
+
+.container button:hover {
+  background-color: #005bb5;
+}
